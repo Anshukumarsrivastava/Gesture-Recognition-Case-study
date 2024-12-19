@@ -1,5 +1,8 @@
-# Gesture Recognition Case study IIITB Assignment [![](https://img.shields.io/badge/Prateek-Ralhan-brightgreen.svg?colorB=ff0000)](https://prateekralhan.github.io/)
+# Gesture Recognition Case study IIITB Assignment
 
+My profile - https://learn.upgrad.com/my-profile
+
+My Git Code -  https://github.com/Anshukumarsrivastava/Gesture-Recognition-Case-study 
 
 Developed by:
 
